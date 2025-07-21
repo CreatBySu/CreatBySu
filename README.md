@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 😃 I’m **Su**.
-- 🔭 I'm currently interested in `Time Series` and `Data Mining`.
-- 💌 How to reach me: `yongfengsu@126.com`
+- 😃 I’m **Yongfeng Su**, a PhD student at Zhejiang University..
+- 🔭 I'm currently interested in `Spatio-temporal` and `Data Mining`.
+- 💌 How to reach me: `yfsu@zju.edu.cn`
